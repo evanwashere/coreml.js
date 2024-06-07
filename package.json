@@ -1,0 +1,13 @@
+{
+  "name": "coreml",
+  "type": "module",
+  "license": "MIT",
+  "main": "lib.mjs",
+  "version": "0.0.1",
+  "keywords": ["ml", "osx", "macos", "coreml"],
+  "files": [ "dist/", "lib.mjs", "license", "readme.md"],
+  "description": "CoreML bindings for javascript runtimes",
+  "homepage": "https://github.com/evanwashere/coreml.js#readme",
+  "bugs": { "url": "https://github.com/evanwashere/coreml.js/issues" },
+  "repository": { "type": "git", "url": "git+https://github.com/evanwashere/coreml.js.git" }
+}
